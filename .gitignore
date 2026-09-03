@@ -1,0 +1,29 @@
+node_modules/
+.svelte-kit/
+build/
+.DS_Store
+.idea/
+.ipynb_checkpoints/
+.env
+package-lock.json
+.studio-data/
+/dist-electron
+/.studio-data
+package-lock.json
+/.studio-data
+/electron/*
+!/electron/main.cjs
+!/electron/preload.cjs
+!/electron/entitlements.mac.plist
+/store
+.ipynb_checkpoints/Process Euler Stream Data-checkpoint.ipynb
+*.ndjson
+/anaconda_projects
+cleaned_gifts.csv
+gifts-formatted.json
+gifts-raw.json
+Gifts.ipynb
+gifts.json
+Process Euler Stream Data.ipynb
+gifts-formatted.json
+Gifts.ipynb
